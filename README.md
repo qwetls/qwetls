@@ -24,7 +24,7 @@ A compiled, statically-typed language built on an LLVM backend (via inkwell).
 
 Feature set (v1.6, `main`): structs, generics (`List<T>`, `Map<K,V>`), module system with visibility control, compile-time-inserted memory management (scope-based → last-use → escape analysis), actor-model concurrency, and enum pattern matching. AOT compilation supported. **581+ integration tests**, single-binary CI pipeline.
 
-[![Tests](https://img.shields.io/github/checks-status/qwetls/aha-lang/main?label=CI&logo=github&logoColor=white&style=flat)](https://github.com/qwetls/aha-lang/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/qwetls/aha-lang/ci.yml?branch=main&label=CI&logo=github&logoColor=white&style=flat)](https://github.com/qwetls/aha-lang/actions)
 [![Docs](https://img.shields.io/badge/docs-aha--lang-blue?style=flat&logo=vercel&logoColor=white)](https://aha-lang-tau.vercel.app)
 [![License](https://img.shields.io/badge/license-MIT-22c55e?style=flat)](https://github.com/qwetls/aha-lang/blob/main/LICENSE)
 
@@ -55,27 +55,7 @@ Current state: v0.1.0, tree-walking interpreter with arithmetic, variables, func
 
 ## Stack
 
-`Rust`
-`TypeScript`
-`LLVM`
-`C++`
-`Python`
-`Lua`
-`Next.js`
-`Fumadocs`
-`Hono`
-`React`
-`SQLite`
-`Docker`
-`GitHub Actions`
-
----
-
-## Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwetls&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="160"/>
-</p>
+`Rust` · `TypeScript` · `LLVM` · `C++` · `Python` · `Lua` · `Next.js` · `Fumadocs` · `Hono` · `React` · `SQLite` · `Docker` · `GitHub Actions`
 
 ---
 
