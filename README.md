@@ -1,42 +1,43 @@
-# Hi, I'm qwetls 👋
+## qwetls
 
-**Founder of [XeyCompany](https://xeycompany.com)** — building tools that are powerful, reliable, and built to last.
-
-I work at the intersection of **programming languages**, **AI infrastructure**, and **systems engineering**. My goal: make technology that scales from the web to spacecraft.
+Systems engineer and founder of **XeyCompany**. I build compilers, AI infrastructure, and developer tooling — with a focus on correctness, performance, and long-lived architecture.
 
 ---
 
-## 🔭 What I'm Building
+### Focus Areas
 
-| Project | What it is | Stack |
-|---------|-----------|-------|
-| **[AHA! Lang](https://github.com/qwetls/aha-lang)** | Advanced Hybrid Architecture — a compiled language with LLVM backend, actor-model concurrency, generics, modules, and memory management | Rust, LLVM (inkwell) |
-| **[XEYGATE](https://github.com/qwetls/xeygate)** | Cloud-first multi-provider AI gateway with marketplace, analytics, and quality-based routing | TypeScript |
-| **[Jabr](https://github.com/qwetls/jabr)** | A programming language inspired by the Islamic Golden Age | Rust |
-| **[AHA! Lang Docs](https://github.com/qwetls/aha-lang-docs)** | Bilingual (EN/ID) documentation site for AHA! Lang | Next.js, Fumadocs, MDX |
+- **Programming Language Design** — compiler architecture, LLVM IR codegen, memory management, concurrency models
+- **AI Infrastructure** — multi-provider gateways, request routing, usage analytics
+- **Systems Engineering** — Rust, C++, TypeScript
 
 ---
 
-## 🧰 Languages & Tools
+### Selected Projects
 
-`Rust` `TypeScript` `LLVM IR` `Python` `Lua` `C++` `Next.js` `Docker` `GitHub Actions`
+**[AHA! Lang](https://github.com/qwetls/aha-lang)** · `Rust` `LLVM`
+A compiled language built on an LLVM backend via inkwell. Implements structs, generics, modules, compile-time-inserted memory management, actor-model concurrency, and AOT execution. 580+ passing integration tests.
+[Documentation →](https://github.com/qwetls/aha-lang-docs)
 
----
+**[XEYGATE](https://github.com/qwetls/xeygate)** · `TypeScript`
+Cloud-first multi-provider AI gateway. Server-side model governance, namespace-isolated marketplace endpoints, public analytics, quality-based routing, and payout management.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwetls&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="qwetls GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwetls&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="160"/>
-</p>
-
----
-
-## 📫 Reach Me
-
-- GitHub: [@qwetls](https://github.com/qwetls)
-- Discord: `xeyyzu`
+**[Jabr](https://github.com/qwetls/jabr)** · `Rust`
+Experimental language exploring arithmetic-first syntax inspired by pre-modern computational traditions.
 
 ---
 
-<p align="center"><i>"Build what you need. Ship what you build."</i></p>
+### Stack
+
+`Rust` · `TypeScript` · `LLVM` · `C++` · `Python` · `Next.js` · `Docker` · `GitHub Actions`
+
+---
+
+### Metrics
+
+![](https://github-readme-stats.vercel.app/api?username=qwetls&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true)
+
+---
+
+### Contact
+
+**Discord** `xeyyzu` · **Web** [xeycompany.com](https://xeycompany.com)
